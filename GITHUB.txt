@@ -1,0 +1,10 @@
+git clone (shift 0)
+
+copy project folder
+
+git add .
+
+git commit -m "Project added"
+
+git push origin master
+
